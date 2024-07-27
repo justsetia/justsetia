@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi there 👋
 
+I’m Setia, a Computer Science student 🎓 with a passion for exploring various fields within tech 💻. Currently, I’m diving into different areas of Computer Science to discover what excites me the most 🚀. Alongside my academic pursuits, I have a keen interest in sports 🏀 and music 🎶, which keeps me balanced and motivated.
+
+Feel free to connect with me if you share similar interests or if you’re working on something exciting in the tech world! 🌟
 <!--
 **justsetia/justsetia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
